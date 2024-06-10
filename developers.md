@@ -28,4 +28,4 @@ And for the independent minds driving progress? We see you. Submit your feature 
 
 That's why our Infra acts as the toolset that allows you to build on top of existing social apps and our platform.
 
-The range of tools is as follows:
+The range of tools is as follows: (???)
