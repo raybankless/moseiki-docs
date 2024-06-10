@@ -6,3 +6,7 @@
 * [What to Expect](what-to-expect.md)
 * [Monetization](monetization.md)
 * [Posts](posts.md)
+* [DM's](dms.md)
+* [In-App Marketplace](in-app-marketplace.md)
+* [Developers](developers.md)
+* [Why should you care?](why-should-you-care.md)
