@@ -4,3 +4,5 @@
 * [Problems & AHWAST](problems-and-ahwast.md)
 * [Why XION?](why-xion.md)
 * [What to Expect](what-to-expect.md)
+* [Monetization](monetization.md)
+* [Posts](posts.md)
