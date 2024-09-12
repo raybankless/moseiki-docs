@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Why XION?
 
 At Moseiki, we're building more than just a social network. We're crafting a Web3 platform where privacy matters, voices heard, and ownership empowers. But to realize this vision, we need allies who share our values and bring unparalleled technological muscle to the table. Xion, a blockchain built on the revolutionary foundation of Generalized Abstraction. Why Xion? Because in our journey for a truly user-centric, privacy-protecting Web3 future, their strengths perfectly align with Moseiki's aspirations.
